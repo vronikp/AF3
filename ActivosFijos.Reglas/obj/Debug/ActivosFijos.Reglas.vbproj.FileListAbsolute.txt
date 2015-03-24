@@ -1,0 +1,54 @@
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.xml
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Datos.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.General.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Reportes.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Controles.Base.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.Resources.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.xml
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.vbprojResolveAssemblyReference.cache
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Datos.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.General.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Reportes.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\bin\Debug\Infoware.Controles.Base.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.pdb
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.pdb
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\Infoware.Datos.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.General.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\Infoware.Reportes.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\bin\Debug\Infoware.Controles.Base.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.Resources.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.pdb
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.pdb
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\Infoware.Datos.dll
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\Infoware.Reglas.General.dll
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\Infoware.Reportes.dll
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\bin\Debug\Infoware.Controles.Base.dll
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.Resources.resources
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\GitHub\AF 3\ActivosFijos.Reglas\obj\Debug\ActivosFijos.Reglas.pdb

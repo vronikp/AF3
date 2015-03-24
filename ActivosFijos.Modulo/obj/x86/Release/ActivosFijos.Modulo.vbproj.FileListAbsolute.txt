@@ -1,0 +1,423 @@
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe.config
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.xml
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Consola.Base.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.Base.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.General.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Datos.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Docking.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.General.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reporteador.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reportes.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.xml
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\es-EC\Infoware.Docking.resources.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaBajasActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlParametroDetAnidado.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmInventariarActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoInventario.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaInventarios.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoValoracion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmDepreciacion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmCargaActivosLote.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivoCustodioAprobar.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoBajaActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoTransaccionActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaTransaccionActivos.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoComponente.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaActivos.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPolizas.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPoliza.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivos.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaFactura.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaFacturaActivos.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoFacturaActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteResumenDepreciacion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteTransaccionActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivosDepreciacion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteDepreciacion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteActaEntregaCustodio.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteFichaActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivos.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaPerito.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPerito.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPeritos.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEmpleado.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEntidad2.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaProveedor.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlDireccion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmail.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmpleado.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadJuridica.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadNatural.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlIdentificacion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlPersona.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlTelefono.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaEmpleados.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPersonas.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaProveedores.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoEmpleado.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPersona.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoProveedor.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaParametroDets.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoParametroDet.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDet.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetFile.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetImagen.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.ComboBoxUsuario.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmAuditoria.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.Resources.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaUsuarios.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoUsuario.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.exe
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.xml
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.pdb
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe.config
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.exe
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.xml
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.cache
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.compiled
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmResumenDepreciacionPorTipo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.pdb
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.xml
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Consola.Base.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.Base.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.General.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Datos.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Docking.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.General.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reporteador.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reportes.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.pdb
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.xml
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\es-EC\Infoware.Docking.resources.dll
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaBajasActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlParametroDetAnidado.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmInventariarActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoInventario.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaInventarios.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoValoracion.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmDepreciacion.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmCargaActivosLote.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivoCustodioAprobar.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoBajaActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoTransaccionActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaTransaccionActivos.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoComponente.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaActivos.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPolizas.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPoliza.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivos.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaFactura.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaFacturaActivos.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoFacturaActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmResumenDepreciacionPorTipo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteResumenDepreciacion.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteTransaccionActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivosDepreciacion.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteDepreciacion.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteActaEntregaCustodio.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteFichaActivo.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivos.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaPerito.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPerito.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPeritos.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEmpleado.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEntidad2.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaProveedor.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlDireccion.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmail.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmpleado.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadJuridica.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadNatural.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlIdentificacion.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlPersona.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlTelefono.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaEmpleados.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPersonas.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaProveedores.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoEmpleado.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPersona.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoProveedor.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaParametroDets.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoParametroDet.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDet.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetFile.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetImagen.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.ComboBoxUsuario.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmAuditoria.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.Resources.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaUsuarios.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoUsuario.resources
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.cache
+C:\Users\user\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.compiled
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.vbprojResolveAssemblyReference.cache
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.vbproj.GenerateResource.Cache
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe.config
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.exe
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.xml
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.pdb
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.pdb
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.xml
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Consola.Base.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.Base.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.General.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Datos.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Docking.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.General.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reporteador.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reportes.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.pdb
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.xml
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\bin\Release\es-EC\Infoware.Docking.resources.dll
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaBajasActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlParametroDetAnidado.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmInventariarActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoInventario.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaInventarios.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoValoracion.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmDepreciacion.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmCargaActivosLote.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivoCustodioAprobar.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoBajaActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoTransaccionActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaTransaccionActivos.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoComponente.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaActivos.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPolizas.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPoliza.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivos.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaFactura.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaFacturaActivos.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoFacturaActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmResumenDepreciacionPorTipo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteResumenDepreciacion.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteTransaccionActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivosDepreciacion.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteDepreciacion.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteActaEntregaCustodio.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteFichaActivo.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivos.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaPerito.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPerito.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPeritos.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEmpleado.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEntidad2.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaProveedor.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlDireccion.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmail.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmpleado.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadJuridica.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadNatural.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlIdentificacion.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlPersona.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlTelefono.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaEmpleados.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPersonas.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaProveedores.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoEmpleado.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPersona.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoProveedor.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaParametroDets.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoParametroDet.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDet.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetFile.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetImagen.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.ComboBoxUsuario.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmAuditoria.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.Resources.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaUsuarios.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoUsuario.resources
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.cache
+C:\Dropbox IP\Dropbox\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.compiled
+C:\Users\Victor Sanchez\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe.config
+C:\Users\Victor Sanchez\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.exe
+C:\Users\Victor Sanchez\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.xml
+C:\Users\Victor Sanchez\Dropbox\GitHub\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Consola.Base.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.Base.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Controles.General.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Datos.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Docking.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.General.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reporteador.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\Infoware.Reportes.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\bin\Release\es-EC\Infoware.Docking.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaBajasActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlParametroDetAnidado.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmInventariarActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoInventario.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaInventarios.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoValoracion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmDepreciacion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmCargaActivosLote.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivoCustodioAprobar.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoBajaActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoTransaccionActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaTransaccionActivos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoComponente.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaActivos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPolizas.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPoliza.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaFactura.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaFacturaActivos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoFacturaActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmResumenDepreciacionPorTipo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteResumenDepreciacion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteTransaccionActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivosDepreciacion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteDepreciacion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteActaEntregaCustodio.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteFichaActivo.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEmpleado.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaPerito.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaProveedor.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPerito.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPeritos.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEntidad2.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlDireccion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmail.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmpleado.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadJuridica.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadNatural.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlIdentificacion.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlPersona.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlTelefono.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaEmpleados.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPersonas.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaProveedores.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoEmpleado.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPersona.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoProveedor.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaParametroDets.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoParametroDet.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDet.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetFile.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetImagen.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.ComboBoxUsuario.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmAuditoria.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaUsuarios.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoUsuario.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.compiled
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\InventarioWeb\ActivosFijos\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.pdb
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe.config
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.exe
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.pdb
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\ActivosFijos.Modulo.xml
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Consola.Base.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Controles.Base.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Controles.General.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Datos.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Docking.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Reglas.General.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Reporteador.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\Infoware.Reportes.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.pdb
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\ActivosFijos.Reglas.xml
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\bin\Release\es-EC\Infoware.Docking.resources.dll
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaBajasActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlParametroDetAnidado.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmInventariarActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoInventario.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaInventarios.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoValoracion.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmDepreciacion.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmCargaActivosLote.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivoCustodioAprobar.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoBajaActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoTransaccionActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaTransaccionActivos.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoActivoComponente.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaActivos.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPolizas.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPoliza.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaActivos.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaFactura.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaFacturaActivos.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoFacturaActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmResumenDepreciacionPorTipo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteResumenDepreciacion.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteTransaccionActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivosDepreciacion.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteDepreciacion.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteActaEntregaCustodio.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteFichaActivo.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmReporteListaActivos.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEmpleado.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaPerito.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaProveedor.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPerito.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPeritos.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlBuscaEntidad2.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlDireccion.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmail.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEmpleado.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadJuridica.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlEntidadNatural.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlIdentificacion.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlPersona.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.CtlTelefono.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaEmpleados.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaPersonas.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaProveedores.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoEmpleado.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoPersona.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoProveedor.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaParametroDets.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoParametroDet.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDet.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetFile.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmParametroDetImagen.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.ComboBoxUsuario.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmAuditoria.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.Resources.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmListaUsuarios.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.FrmMantenimientoUsuario.resources
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.cache
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\RdlCompile.compiled
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.exe
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.xml
+C:\Users\Admin\Documents\GitHub\AF\ActivosFijos.Modulo\obj\x86\Release\ActivosFijos.Modulo.pdb

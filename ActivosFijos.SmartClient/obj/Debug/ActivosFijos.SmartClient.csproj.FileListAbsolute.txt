@@ -1,0 +1,13 @@
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.frmConexion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.frmIniciarToma.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.frmInicioSesion.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.frmInventario.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.frmTomaActivo.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.SmarClient.Properties.Resources.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.SmartClient.csproj.GenerateResource.Cache
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.Controles.CtlAdicional.resources
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\bin\Debug\ActivosFijos.SmarClient.exe
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\bin\Debug\ActivosFijos.SmarClient.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.SmarClient.exe
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.SmartClient\obj\Debug\ActivosFijos.SmarClient.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\GitHub\ActivosFijos\WcfService1\bin\WcfService1.dll
+D:\Dropbox\GitHub\ActivosFijos\WcfService1\bin\WcfService1.pdb
+D:\Dropbox\GitHub\ActivosFijos\WcfService1\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\GitHub\ActivosFijos\WcfService1\obj\Release\WcfService1.dll
+D:\Dropbox\GitHub\ActivosFijos\WcfService1\obj\Release\WcfService1.pdb

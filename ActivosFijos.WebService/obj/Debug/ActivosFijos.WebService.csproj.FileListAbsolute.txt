@@ -1,0 +1,13 @@
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\obj\Debug\ActivosFijos.WebService.csprojResolveAssemblyReference.cache
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\ActivosFijos.WebService.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\ActivosFijos.WebService.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\ActivosFijos.Reglas.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\Infoware.Datos.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\Infoware.Reglas.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\Infoware.Reglas.General.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\Infoware.Reportes.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\Infoware.Controles.Base.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\ActivosFijos.Reglas.pdb
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\bin\ActivosFijos.Reglas.xml
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\obj\Debug\ActivosFijos.WebService.dll
+D:\Dropbox\GitHub\ActivosFijos\ActivosFijos.WebService\obj\Debug\ActivosFijos.WebService.pdb

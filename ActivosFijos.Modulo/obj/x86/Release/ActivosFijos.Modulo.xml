@@ -1,0 +1,416 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ActivosFijos.Modulo
+</name>
+</assembly>
+<members>
+<member name="T:ActivosFijos.Modulo.dsActaConstatacionF3.vw_ActaConstatacionF3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF3.vw_ActaConstatacionF3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF3.vw_ActaConstatacionF3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.vw_ActaConstatacionF3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager.UpdateUpdatedRows(ActivosFijos.Modulo.dsActaConstatacionF3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager.UpdateInsertedRows(ActivosFijos.Modulo.dsActaConstatacionF3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager.UpdateDeletedRows(ActivosFijos.Modulo.dsActaConstatacionF3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager.UpdateAll(ActivosFijos.Modulo.dsActaConstatacionF3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsAuditoria.vp_AuditoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsAuditoria.vp_AuditoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsAuditoria.vp_AuditoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsAuditoria">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaActivoSRI.vw_FichaCambioCustodioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaActivoSRI.vw_FichaCambioCustodioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaActivoSRI.vw_FichaCambioCustodioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaActivoSRI">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaActivoSRITableAdapters.vw_FichaCambioCustodioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacion.vw_ReporteActivoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacion.vw_ReporteActivoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacion.vw_ReporteActivoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.vw_ReporteActivoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager.UpdateUpdatedRows(ActivosFijos.Modulo.dsReporteActivoDepreciacion,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager.UpdateInsertedRows(ActivosFijos.Modulo.dsReporteActivoDepreciacion,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager.UpdateDeletedRows(ActivosFijos.Modulo.dsReporteActivoDepreciacion,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager.UpdateAll(ActivosFijos.Modulo.dsReporteActivoDepreciacion)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivoDepreciacionTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2.vw_ActaConstacionF2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2.vw_ActaConstacionF2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2.vw_ActaConstacionF2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.vw_ActaConstacionF2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager.UpdateUpdatedRows(ActivosFijos.Modulo.dsActaConstatacionF2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager.UpdateInsertedRows(ActivosFijos.Modulo.dsActaConstatacionF2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager.UpdateDeletedRows(ActivosFijos.Modulo.dsActaConstatacionF2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager.UpdateAll(ActivosFijos.Modulo.dsActaConstatacionF2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsActaConstatacionF2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteResumenDepreciacion.vw_ReporteResumenDepreciacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteResumenDepreciacion.vw_ReporteResumenDepreciacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteResumenDepreciacion.vw_ReporteResumenDepreciacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteResumenDepreciacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivosValorizacionDet.vw_ReporteActivoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivosValorizacionDet.vw_ReporteActivoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivosValorizacionDet.vw_ReporteActivoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivosValorizacionDet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsResumenDepreciacionPorTipo.vw_Resumen_depreciacion_por_tipoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsResumenDepreciacionPorTipo.vw_Resumen_depreciacion_por_tipoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsResumenDepreciacionPorTipo.vw_Resumen_depreciacion_por_tipoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsResumenDepreciacionPorTipo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcion.vw_SRIActaConstatacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcion.vw_SRIActaConstatacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcion.vw_SRIActaConstatacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.vw_SRIActaConstatacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager.UpdateUpdatedRows(ActivosFijos.Modulo.dsSriActaRecepcion,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager.UpdateInsertedRows(ActivosFijos.Modulo.dsSriActaRecepcion,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager.UpdateDeletedRows(ActivosFijos.Modulo.dsSriActaRecepcion,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager.UpdateAll(ActivosFijos.Modulo.dsSriActaRecepcion)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsSriActaRecepcionTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodio.vw_FichaCambioCustodioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodio.vw_FichaCambioCustodioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodio.vw_FichaCambioCustodioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodio">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.vw_FichaCambioCustodioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager.UpdateUpdatedRows(ActivosFijos.Modulo.dsFichaCambioCustodio,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager.UpdateInsertedRows(ActivosFijos.Modulo.dsFichaCambioCustodio,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager.UpdateDeletedRows(ActivosFijos.Modulo.dsFichaCambioCustodio,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager.UpdateAll(ActivosFijos.Modulo.dsFichaCambioCustodio)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsFichaCambioCustodioTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteTransaccion.vw_TransaccionActivoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteTransaccion.vw_TransaccionActivoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteTransaccion.vw_TransaccionActivoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteTransaccion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivos.vw_ReporteActivoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivos.vw_ReporteActivoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivos.vw_ReporteActivoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteActivos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteDepreciacion.vw_ReporteDepreciacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteDepreciacion.vw_ReporteDepreciacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteDepreciacion.vw_ReporteDepreciacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ActivosFijos.Modulo.dsReporteDepreciacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:ActivosFijos.Modulo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ActivosFijos.Modulo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ActivosFijos.Modulo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

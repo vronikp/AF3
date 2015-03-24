@@ -1,0 +1,13 @@
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\WcfService2.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\WcfService2.pdb
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\ActivosFijos.Reglas.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\Infoware.Datos.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\Infoware.Reglas.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\Infoware.Reglas.General.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\Infoware.Reportes.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\Infoware.Controles.Base.dll
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\ActivosFijos.Reglas.pdb
+C:\Users\Victor\Documents\Visual Studio 2010\Projects\WcfService2\WcfService2\bin\ActivosFijos.Reglas.xml
